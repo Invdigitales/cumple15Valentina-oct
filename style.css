@@ -236,6 +236,14 @@ margin-left: 5%;
     font-size: 26px;
     font-family: 'Great Vibes', cursive;
 }
+.menu{
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 17px;
+  text-align: center;
+  margin-top: *5%;
+  color: #3e3d3e;
+  font-weight: 600;
+}
 
 .clik {
   margin-left: 36%;
@@ -548,6 +556,9 @@ margin-top: -3%;
   color: #6e6c6e;
  
  }
+
+
+
   h5{
   font-size: 30px;
   text-align: center;
